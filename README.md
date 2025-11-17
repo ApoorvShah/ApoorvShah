@@ -151,23 +151,9 @@ Bachelor of Technology in Information Technology (2015 - 2019)
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApoorvShah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApoorvShah&show_icons=true&theme=tokyonight&hide_border=true)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvShah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvShah&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ApoorvShah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
