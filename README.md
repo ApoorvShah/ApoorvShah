@@ -59,7 +59,7 @@ public class ApoorvShah extends SoftwareEngineer {
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## 🏆 Recent Achievements
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
@@ -67,9 +67,13 @@ public class ApoorvShah extends SoftwareEngineer {
 **Cerence Chat Pro** - *"Best Audio Generative AI Solution"*
 Revolutionizing in-car experiences, now live in Volkswagen vehicles!
 
-### 🚀 **THG AI Hackathon 2025**
-Built **AI-Powered Cross-Brand Discovery Engine** with Team AI-steins Army
+### 💡 **THG AI Hackathon 2025**
+**Participant** - Built **AI-Powered Cross-Brand Discovery Engine** with Team AI-steins Army
 Identified **£2M** in cross-sell opportunities | **85%** recommendation relevance
+
+### ⭐ **Individual Recognition**
+🏅 **Spot Award** at Cerence for exceptional performance
+🌟 **Rising Star Award** at Cognizant for outstanding first-year contributions
 
 </div>
 
@@ -79,9 +83,9 @@ Identified **£2M** in cross-sell opportunities | **85%** recommendation relevan
 
 | 🏢 Company | 🎯 Achievement | 🌍 Impact |
 |------------|---------------|-----------|
-| **THG** | Building Voyager WMS + Hackathon Winner | Powering warehouses across 3 continents |
+| **THG** | Building Voyager WMS + Hackathon Participant | Powering warehouses across 3 continents |
 | **Cerence** | Chat Pro - Award-Winning AI | Deployed in Ford, BMW, Audi, VW vehicles |
-| **Cognizant** | Portfolio Management | Managing billions in corporate assets |
+| **Cognizant** | Portfolio Management | Large corporate portfolios |
 
 </div>
 
