@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Software+Engineer+at+THG;Ex-Cerence+%7C+Ex-Cognizant;Backend+Development+Specialist;Microservices+%26+Cloud+Expert;I+use+Neovim+BTW+%3A))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Software+Engineer+at+THG;Ex-Cerence+%7C+Ex-Cognizant;Backend+Development+Specialist;Microservices+%26+Cloud+Expert;I+use+Neovim+BTW)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="mailto:apoorvshah222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -167,7 +167,7 @@ Bachelor of Technology in Information Technology (2015 - 2019)
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvShah&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvShah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 What I'm Up To
@@ -184,11 +184,13 @@ Bachelor of Technology in Information Technology (2015 - 2019)
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
+
+Snake animation will appear here once the GitHub Action runs successfully
 
 <div align="center">
   <img src="https://github.com/ApoorvShah/ApoorvShah/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
