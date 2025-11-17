@@ -221,10 +221,11 @@
                             Building Voyager WMS - Warehouse Management System powering operations across 3 continents
                         </p>
                         <ul class="role-highlights">
-                            <li><i class="fas fa-chevron-right"></i> Architecting microservices for distributed warehouse management</li>
-                            <li><i class="fas fa-chevron-right"></i> Implementing robust data contracts for system reliability</li>
-                            <li><i class="fas fa-chevron-right"></i> Building comprehensive test frameworks and CI/CD pipelines</li>
-                            <li><i class="fas fa-chevron-right"></i> Optimizing performance with real-time monitoring dashboards</li>
+                            <li><i class="fas fa-chevron-right"></i> Architecting microservices handling millions of SKUs across distributed warehouses</li>
+                            <li><i class="fas fa-chevron-right"></i> Building event-driven systems with RabbitMQ/Kafka for real-time inventory tracking</li>
+                            <li><i class="fas fa-chevron-right"></i> Implementing observability with Grafana, Prometheus, and ELK stack (Elasticsearch, Logstash, Kibana)</li>
+                            <li><i class="fas fa-chevron-right"></i> Deploying containerized services on K8s with auto-scaling and self-healing capabilities</li>
+                            <li><i class="fas fa-chevron-right"></i> Managing distributed databases (CockroachDB) for global consistency and resilience</li>
                             <li><i class="fas fa-trophy"></i> <strong>Hackathon:</strong> Built AI recommendation engine identifying £2M opportunity</li>
                         </ul>
                         <div class="tech-tags">
@@ -234,6 +235,16 @@
                             <span class="tech-tag">Docker</span>
                             <span class="tech-tag">Kubernetes</span>
                             <span class="tech-tag">PostgreSQL</span>
+                            <span class="tech-tag">CockroachDB</span>
+                            <span class="tech-tag">RabbitMQ</span>
+                            <span class="tech-tag">Kafka</span>
+                            <span class="tech-tag">Kibana</span>
+                            <span class="tech-tag">Grafana</span>
+                            <span class="tech-tag">Prometheus</span>
+                            <span class="tech-tag">ElasticSearch</span>
+                            <span class="tech-tag">Redis</span>
+                            <span class="tech-tag">Jenkins</span>
+                            <span class="tech-tag">Terraform</span>
                         </div>
                     </div>
                 </div>
@@ -392,28 +403,28 @@
                     </h3>
                     <div class="skill-items">
                         <div class="skill-item" data-level="85">
-                            <span class="skill-name">AWS</span>
+                            <span class="skill-name">AWS (EC2, S3, Lambda, SQS)</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
                             <span class="skill-level">Advanced</span>
                         </div>
                         <div class="skill-item" data-level="90">
-                            <span class="skill-name">Docker</span>
+                            <span class="skill-name">Docker & Kubernetes</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
                             <span class="skill-level">Expert</span>
                         </div>
                         <div class="skill-item" data-level="85">
-                            <span class="skill-name">Kubernetes</span>
+                            <span class="skill-name">CI/CD (Jenkins, GitLab)</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
                             <span class="skill-level">Advanced</span>
                         </div>
                         <div class="skill-item" data-level="80">
-                            <span class="skill-name">CI/CD</span>
+                            <span class="skill-name">Terraform & IaC</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
@@ -422,28 +433,65 @@
                     </div>
                 </div>
 
-                <!-- Databases -->
-                <div class="skill-category" data-aos="fade-up" data-aos-delay="300">
+                <!-- Monitoring & Observability -->
+                <div class="skill-category" data-aos="fade-up" data-aos-delay="250">
                     <h3 class="category-title">
-                        <i class="fas fa-database"></i> Databases
+                        <i class="fas fa-chart-line"></i> Monitoring & Observability
                     </h3>
                     <div class="skill-items">
                         <div class="skill-item" data-level="85">
-                            <span class="skill-name">PostgreSQL</span>
+                            <span class="skill-name">Grafana & Prometheus</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
                             <span class="skill-level">Advanced</span>
                         </div>
-                        <div class="skill-item" data-level="80">
-                            <span class="skill-name">MongoDB</span>
+                        <div class="skill-item" data-level="85">
+                            <span class="skill-name">ELK Stack (Elasticsearch, Kibana)</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
                             <span class="skill-level">Advanced</span>
                         </div>
                         <div class="skill-item" data-level="75">
-                            <span class="skill-name">CockroachDB</span>
+                            <span class="skill-name">Distributed Tracing</span>
+                            <div class="skill-bar">
+                                <div class="skill-progress"></div>
+                            </div>
+                            <span class="skill-level">Intermediate</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Databases & Messaging -->
+                <div class="skill-category" data-aos="fade-up" data-aos-delay="300">
+                    <h3 class="category-title">
+                        <i class="fas fa-database"></i> Data & Messaging
+                    </h3>
+                    <div class="skill-items">
+                        <div class="skill-item" data-level="85">
+                            <span class="skill-name">PostgreSQL & CockroachDB</span>
+                            <div class="skill-bar">
+                                <div class="skill-progress"></div>
+                            </div>
+                            <span class="skill-level">Advanced</span>
+                        </div>
+                        <div class="skill-item" data-level="85">
+                            <span class="skill-name">RabbitMQ & Kafka</span>
+                            <div class="skill-bar">
+                                <div class="skill-progress"></div>
+                            </div>
+                            <span class="skill-level">Advanced</span>
+                        </div>
+                        <div class="skill-item" data-level="80">
+                            <span class="skill-name">Redis & Caching</span>
+                            <div class="skill-bar">
+                                <div class="skill-progress"></div>
+                            </div>
+                            <span class="skill-level">Advanced</span>
+                        </div>
+                        <div class="skill-item" data-level="75">
+                            <span class="skill-name">MongoDB & NoSQL</span>
                             <div class="skill-bar">
                                 <div class="skill-progress"></div>
                             </div>
@@ -463,23 +511,47 @@
                     </div>
                     <div class="arch-item">
                         <i class="fas fa-sitemap"></i>
-                        <span>Distributed Systems</span>
+                        <span>Event-Driven Architecture</span>
                     </div>
                     <div class="arch-item">
                         <i class="fas fa-exchange-alt"></i>
-                        <span>RESTful APIs</span>
+                        <span>RESTful & GraphQL APIs</span>
                     </div>
                     <div class="arch-item">
                         <i class="fas fa-bolt"></i>
-                        <span>Event-Driven</span>
+                        <span>CQRS & Event Sourcing</span>
                     </div>
                     <div class="arch-item">
                         <i class="fas fa-shield-alt"></i>
-                        <span>Security</span>
+                        <span>Zero Trust Security</span>
                     </div>
                     <div class="arch-item">
                         <i class="fas fa-chart-line"></i>
-                        <span>Monitoring</span>
+                        <span>Observability & SRE</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-sync"></i>
+                        <span>Saga Pattern</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-code-branch"></i>
+                        <span>Blue-Green Deployments</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-cubes"></i>
+                        <span>Domain-Driven Design</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-tachometer-alt"></i>
+                        <span>Performance Tuning</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-undo"></i>
+                        <span>Circuit Breakers</span>
+                    </div>
+                    <div class="arch-item">
+                        <i class="fas fa-expand-arrows-alt"></i>
+                        <span>Auto-Scaling</span>
                     </div>
                 </div>
             </div>
@@ -497,72 +569,15 @@
                 </h2>
             </div>
 
-            <div class="projects-grid">
-                <!-- Project 1 -->
-                <div class="project-card" data-aos="flip-left">
-                    <div class="project-image">
-                        <div class="project-overlay">
-                            <a href="https://github.com/ApoorvShah/pets.nvim" target="_blank" class="project-link">
-                                <i class="fab fa-github"></i>
-                            </a>
-                        </div>
-                        <span class="project-type">Neovim Plugin</span>
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">pets.nvim</h3>
-                        <p class="project-description">
-                            Interactive Neovim plugin bringing virtual pets to your editor with customizable animations and behaviors
-                        </p>
-                        <div class="project-tech">
-                            <span>Lua</span>
-                            <span>Neovim API</span>
-                        </div>
-                    </div>
-                </div>
+            <div class="projects-grid" id="projectsGrid">
+                <!-- Projects will be dynamically loaded here -->
+            </div>
 
-                <!-- Project 2 -->
-                <div class="project-card" data-aos="flip-left" data-aos-delay="100">
-                    <div class="project-image">
-                        <div class="project-overlay">
-                            <a href="https://github.com/ApoorvShah/notes-app" target="_blank" class="project-link">
-                                <i class="fab fa-github"></i>
-                            </a>
-                        </div>
-                        <span class="project-type">Full Stack</span>
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Notes App</h3>
-                        <p class="project-description">
-                            Real-time collaborative note-taking application with markdown support and cloud sync
-                        </p>
-                        <div class="project-tech">
-                            <span>React</span>
-                            <span>Node.js</span>
-                            <span>MongoDB</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Project 3 -->
-                <div class="project-card" data-aos="flip-left" data-aos-delay="200">
-                    <div class="project-image">
-                        <div class="project-overlay">
-                            <a href="https://github.com/ApoorvShah/vim-translator" target="_blank" class="project-link">
-                                <i class="fab fa-github"></i>
-                            </a>
-                        </div>
-                        <span class="project-type">Dev Tool</span>
-                    </div>
-                    <div class="project-content">
-                        <h3 class="project-title">Vim Translator</h3>
-                        <p class="project-description">
-                            Multi-language translation plugin for Vim/Neovim with support for 50+ languages
-                        </p>
-                        <div class="project-tech">
-                            <span>VimScript</span>
-                            <span>Python</span>
-                        </div>
-                    </div>
+            <!-- Open Source Contributions -->
+            <div class="contributions-section" data-aos="fade-up">
+                <h3 class="subsection-title">🌟 Open Source Contributions</h3>
+                <div class="contributions-grid" id="contributionsGrid">
+                    <!-- Contributions will be loaded here -->
                 </div>
             </div>
 

@@ -45,13 +45,24 @@ public class ApoorvShah extends SoftwareEngineer {
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### Data & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachdb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Apache Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apache-solr&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
 ### Tools I Live In
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
@@ -89,6 +100,20 @@ Identified **£2M** in cross-sell opportunities | **85%** recommendation relevan
 
 </div>
 
+## 🤝 Open Source Contributions
+
+<div align="center">
+
+### 🔥 **Active Contributor**
+
+| Repository | Pull Request | Status | Impact |
+|------------|--------------|--------|--------|
+| [browser-use/web-ui](https://github.com/browser-use/web-ui) | [#430 - Unbound AI Integration](https://github.com/browser-use/web-ui/pull/430) | ✅ Merged | Unified gateway for multiple AI models with analytics |
+
+*Note: Some contributions made using work email for employer-sponsored OSS initiatives*
+
+</div>
+
 ## 🌟 Featured Projects
 
 <table>
@@ -99,9 +124,10 @@ Identified **£2M** in cross-sell opportunities | **85%** recommendation relevan
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ApoorvShah/vim-translator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=vim-translator&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/ApoorvShah/bikes-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=bikes-analysis&theme=tokyonight&hide_border=true" />
       </a>
+      <p><a href="https://bikes-analysis-lvto8zz6rl8iocxhz6w6ls.streamlit.app/">🚀 Live Demo</a></p>
     </td>
   </tr>
   <tr>
@@ -111,8 +137,8 @@ Identified **£2M** in cross-sell opportunities | **85%** recommendation relevan
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/ApoorvShah/AV-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=AV-studio&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/ApoorvShah/vim-translator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=vim-translator&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
