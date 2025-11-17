@@ -150,18 +150,25 @@ Bachelor of Technology in Information Technology (2015 - 2019)
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApoorvShah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvShah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApoorvShah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApoorvShah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApoorvShah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvShah&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ApoorvShah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ApoorvShah&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
 </div>
 
 ## 📈 Contribution Graph
@@ -184,13 +191,16 @@ Bachelor of Technology in Information Technology (2015 - 2019)
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-<!-- ## 🐍 Contribution Snake
-
-Snake animation will appear here once the GitHub Action runs successfully
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/ApoorvShah/ApoorvShah/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> -->
+
+  ![Snake animation](https://raw.githubusercontent.com/ApoorvShah/ApoorvShah/output/github-contribution-grid-snake.svg)
+
+  <!-- Alternative: If above doesn't work, you can use this simpler version -->
+  <!-- ![Snake animation](https://github.com/ApoorvShah/ApoorvShah/blob/main/github-snake.svg) -->
+
+</div>
 
 ---
 

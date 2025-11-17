@@ -1,0 +1,22 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+    - name: Generate snake animation
+      uses: Platane/snk@v3
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        outputs: |
+          github-snake.svg
+          github-snake-dark.svg?palette=github-dark
