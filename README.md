@@ -2,150 +2,117 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Software+Engineer+at+THG;Ex-Cerence+%7C+Ex-Cognizant;Backend+Development+Specialist;Microservices+%26+Cloud+Expert;I+use+Neovim+BTW)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Software+Engineer+at+THG;Ex-Cerence+%7C+Ex-Cognizant;Warehouse+Tech+%7C+Automotive+AI+%7C+FinTech;Microservices+%26+Cloud+Expert;I+use+Neovim+BTW)](https://git.io/typing-svg)
 
   <p align="center">
     <a href="mailto:apoorvshah222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/apoorvshah222"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/ApoorvShah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://apoorvshah.github.io/ApoorvShah"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 
-  📍 **Pune, Maharashtra, India**
+  📍 **Pune, Maharashtra, India** | 🚀 **5+ Years Building Scalable Systems**
 </div>
 
-## 🚀 About Me
+## 🎯 What I Do
 
-I'm a passionate **Software Development Engineer** currently building scalable warehouse technology at **THG**. With over **5 years of experience** in backend development, I specialize in designing robust microservices, optimizing system performance, and creating innovative solutions across diverse domains including **E-commerce/Logistics**, **Automotive Technology**, and **Banking & Finance**.
+```java
+public class ApoorvShah extends SoftwareEngineer {
 
-> *"Just setting up a few things. Come back later to know more.. :)"* - But here's what I've been up to!
+    private static final String CURRENT_ROLE = "Building Warehouse Tech @ THG";
+    private static final String[] DOMAINS = {"E-commerce", "Automotive", "FinTech"};
+    private static final boolean USES_NEOVIM = true; // BTW :)
 
-### 🎯 Current Focus
-- 🏗️ Building and optimizing **Voyager WMS** - THG's proprietary warehouse management platform
-- 🌍 Powering THG's warehouses across **UK, US, Australia** and more
-- 🚀 Designing microservices for **scalable warehouse operations**
-- 🤖 Implementing **automation** and **observability** solutions
+    public List<String> getCurrentFocus() {
+        return Arrays.asList(
+            "🏭 Scaling Voyager WMS across UK, US, Australia",
+            "🚗 Previously built AI assistants for Ford, BMW, Audi",
+            "💰 Handled portfolios for Fortune 500 companies"
+        );
+    }
+}
+```
 
-## 💼 Professional Experience
+## 💻 Tech Arsenal
 
-### 🏢 **THG** | Software Engineer
-*July 2024 - Present* | Pune, Maharashtra, India
-
-**Building Scalable Warehouse Technology with Voyager WMS**
-
-- 🔧 Developing and maintaining **microservices** within the Voyager WMS ecosystem
-- 📊 Designing **robust data contracts** for seamless component communication
-- 🧪 Creating **test frameworks** and **load-testing tools** for system reliability
-- 🚀 Building **CI/CD pipelines** for smooth deployments
-- 📈 Monitoring and optimizing performance using **global observability dashboards**
-- 🤝 Working in a collaborative environment with focus on **knowledge sharing**
-
-**Tech Stack:** Java | Python | AWS | Docker | Kubernetes | Postgres | CockroachDB | RabbitMQ | Git | JIRA
-
----
-
-### 🚗 **Cerence Inc.** | Software Engineer
-*October 2021 - July 2024* | Pune, Maharashtra, India
-
-**Driving Innovation in Automotive Technology**
-
-- 🎯 Specialized in **CarManual** and **ChatPro** automotive products
-- 🚙 Contributed to **Cerence CarKnowledge** - revolutionary automotive assistant
-- 🏭 Delivered solutions for industry giants: **Ford**, **BMW**, **Audi**
-- 🐧 Integrated solutions with **Linux**, **Android**, and automotive OS
-- 📝 Conducted **code reviews** and provided **root cause analysis**
-- ⚙️ Automated deployments over large infrastructure
-
-**Tech Stack:** Java | Spring Boot | SQL | SOLR | Docker | Kubernetes | Helm | Shell Scripting | GitLab CI/CD | Linux | Jenkins | Grafana
-
----
-
-### 💰 **Cognizant** | Programming Analyst
-*June 2019 - October 2021* | Chennai & Bengaluru, India
-
-**Banking and Finance Domain Expertise**
-
-- 💼 Developed **portfolio management** applications for large corporations
-- 🏦 Built backend services for a **BFS Giant**
-- 🔄 Worked in **Agile environment** with strong SDLC knowledge
-- 🛠️ Developed modules using **Java, Spring Boot, Hibernate, Oracle SQL**
-
-## 🎓 Education
-
-**Maharashtra Institute of Technology**
-Bachelor of Technology in Information Technology (2015 - 2019)
-
-## 💻 Technical Skills
-
-### Core Technologies
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Core Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachdb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SOLR](https://img.shields.io/badge/Apache_Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white)
+### Data & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachdb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Apache Solr](https://img.shields.io/badge/Solr-D9411E?style=flat-square&logo=apache-solr&logoColor=white)
 
-### Message Queues & Monitoring
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### Tools I Live In
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### Tools & Platforms
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+## 🏆 Recent Achievements
 
-### Programming Languages
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![VimScript](https://img.shields.io/badge/VimScript-019733?style=for-the-badge&logo=vim&logoColor=white)
+<div align="center">
 
-## 🏆 Certifications
+### 🥇 **AI Breakthrough Award 2024**
+**Cerence Chat Pro** - *"Best Audio Generative AI Solution"*
+Revolutionizing in-car experiences, now live in Volkswagen vehicles!
 
-- 🔐 **Secure Coding in Java**
+### 🚀 **THG AI Hackathon 2025**
+Built **AI-Powered Cross-Brand Discovery Engine** with Team AI-steins Army
+Identified **£2M** in cross-sell opportunities | **85%** recommendation relevance
+
+</div>
+
+## 🚀 Impact & Scale
+
+<div align="center">
+
+| 🏢 Company | 🎯 Achievement | 🌍 Impact |
+|------------|---------------|-----------|
+| **THG** | Building Voyager WMS + Hackathon Winner | Powering warehouses across 3 continents |
+| **Cerence** | Chat Pro - Award-Winning AI | Deployed in Ford, BMW, Audi, VW vehicles |
+| **Cognizant** | Portfolio Management | Managing billions in corporate assets |
+
+</div>
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🏭 Voyager WMS** | Enterprise warehouse management system powering global operations | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![K8s](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white) | Internal |
-| **🚗 Cerence CarKnowledge** | Automotive assistant for major car manufacturers | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | Enterprise |
-| **🐾 pets.nvim** | A Neovim plugin that combines all pets with cat functionality | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/ApoorvShah/pets.nvim) |
-| **📝 Notes App** | Full-featured note-taking application with modern UI | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/ApoorvShah/notes-app) |
-| **☕ Notes Java App** | Enterprise-grade note management system | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/ApoorvShah/notes-java-app) |
-| **🌐 Vim Translator** | Translation plugin for Vim/Neovim | ![VimScript](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) | [![GitHub](https://img.shields.io/badge/Code-000?style=flat&logo=github)](https://github.com/ApoorvShah/vim-translator) |
-
-</div>
-
-## 💡 Core Competencies
-
-<div align="center">
-
-| Domain | Skills |
-|--------|--------|
-| **🏗️ Software Architecture** | Microservices, Design Patterns, RESTful APIs, Data Contracts |
-| **☁️ Cloud & DevOps** | AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code |
-| **📊 Databases** | SQL/NoSQL, Performance Optimization, Data Modeling |
-| **🔧 Backend Development** | Java, Spring Boot, Python, System Design |
-| **🚀 Performance** | Load Testing, Monitoring, Optimization, Observability |
-| **🤝 Soft Skills** | Team Collaboration, Code Reviews, Root Cause Analysis, Agile/Scrum |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ApoorvShah/pets.nvim">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=pets.nvim&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ApoorvShah/vim-translator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=vim-translator&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/ApoorvShah/notes-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=notes-app&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/ApoorvShah/AV-studio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ApoorvShah&repo=AV-studio&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Statistics
 
@@ -162,14 +129,6 @@ Bachelor of Technology in Information Technology (2015 - 2019)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApoorvShah&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true" alt="Contribution Graph" />
 </div>
-
-## 🎯 What I'm Up To
-
-- 🔨 Building scalable warehouse management solutions at **THG**
-- 🌍 Contributing to systems that power **global e-commerce operations**
-- 📚 Deepening expertise in **distributed systems** and **cloud-native architectures**
-- 🤖 Exploring **automation** and **AI/ML** integration in logistics
-- 🐧 Mastering the art of **Neovim** (because I use Neovim BTW 😎)
 
 ## 💭 Random Dev Quote
 
@@ -193,11 +152,15 @@ Bachelor of Technology in Information Technology (2015 - 2019)
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ApoorvShah&color=blue&style=for-the-badge" alt="Profile Views" />
 
-  ### 🤝 Let's Connect!
+  ### 💬 Let's Build Something Amazing Together!
 
-  <p>Whether it's about <b>microservices</b>, <b>warehouse tech</b>, <b>automotive systems</b>, or just <b>Neovim tips</b> - I'm always up for a chat!</p>
+  <p>Open to collaborating on <b>Microservices</b>, <b>Cloud Architecture</b>, <b>DevOps</b>, or just geeking out about <b>Neovim configs</b>!</p>
 
   <a href="mailto:apoorvshah222@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <br><br>
+
+  <i>⚡ Fun fact: I can exit Vim... but choose not to!</i>
 </div>

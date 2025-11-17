@@ -1,0 +1,36 @@
+# Personal/Internal files
+CONTENT_STRATEGY.md
+linkedin-career-data.txt
+*.pdf
+linkdin-career-page.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+tmp/
+temp/
+*.tmp
